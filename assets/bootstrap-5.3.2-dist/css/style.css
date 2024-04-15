@@ -1,5 +1,13 @@
-div.bg {
-    background-color: #563D7C;
-    height: 50px;
-    border: 1px solid #FFF;
+.home {
+    background-color: #FFC107;
+    color: #FFF;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+footer p a {
+    margin: 5px 15px;
 }
